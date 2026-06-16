@@ -1,6 +1,8 @@
 body{
 background-color:aqua(223, 126,126);
 }
+header{
+   display: flex;
 h1{
 color:FF4081
 font-size: 70px;
